@@ -1,11 +1,10 @@
 ul.products li {
-    align-self: center;
-    width: 650px; /* adjust the size of the catalog block */
+    width: 800px; /* adjust the size of the catalog block */
     display: inline-block; /* this creates the catalog effect */
     text-align: center; /* align the image to center */
     background-color:#f6f6f6; /*background color of each*/
     font-family: "Trebuchet MS", Helvetica, sans-serif;
-    border-radius: 5px; /*rounded borders effect*/
-    border: 5px solid #323232; /* border and color */
+    /*border-radius: 5px; /*rounded borders effect*/
+    /* border: 5px solid #323232; /* border and color */
     padding-bottom: 1px;
 }
